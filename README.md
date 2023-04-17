@@ -1,8 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working at a toys store , Kids are easy 😜 parents tho ...
-- 🌱 I’m currently learning pasport.js and NodeJs
+- 🦾I am currently building a social network project using nodeJS with TS , and React and TS
+- 🌱 I’m currently learning pasport.js and NodeJs in TypeScript
 - 👯 I’m looking to collaborate on Angular, React , NodeJS
 - 💬 Ask me about Anything
+- - 📫 How to reach me: adir9496@gmail.com   ... Tell me where you from
 <!--
 
 
